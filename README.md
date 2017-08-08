@@ -1,2 +1,2 @@
-# Wedding-Invitatio-Template.github.io
+# https://slavagmail.github.io/Wedding-Invitatio-Template/
 Wedding Invitation Template
